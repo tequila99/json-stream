@@ -6,7 +6,7 @@ New line-delimeted JSON parser with a stream interface.
 (some minor improvements for this package: https://github.com/mmalecki/json-stream)
 ## Installation
 
-    npm install json-stream
+    npm install @tequila99/json-stream
 
 ## Usage
 ```js
