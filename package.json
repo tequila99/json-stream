@@ -1,0 +1,15 @@
+{
+  "name": "json-stream",
+  "version": "1.0.0",
+  "description": "New line-delimeted JSON parser with a stream interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "stream"
+  ],
+  "author": "Ivan Milovanov <tequila00@yandex.ru>",
+  "license": "ISC"
+}
