@@ -10,7 +10,7 @@ New line-delimeted JSON parser with a stream interface.
 
 ## Usage
 ```js
-const JSONStream = require('json-stream');
+const JSONStream = require('@tequila99/json-stream');
 
 const stream = JSONStream();
 

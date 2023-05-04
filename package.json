@@ -1,5 +1,5 @@
 {
-  "name": "json-stream",
+  "name": "@tequila99/json-stream",
   "version": "1.0.0",
   "description": "New line-delimeted JSON parser with a stream interface.",
   "main": "index.js",
@@ -11,5 +11,5 @@
     "stream"
   ],
   "author": "Ivan Milovanov <tequila00@yandex.ru>",
-  "license": "ISC"
+  "license": "MIT"
 }
